@@ -14,7 +14,7 @@ const GifSearch=({onSearchSubmit})=>{
                    onChange={(e)=>setQuery(e.target.value)}
                    placeholder="Enter your gif search"
             />
-            <button type="submit">Search</button>
+            <button type="submit">Find Gifs</button>
         </form>
 
     )
